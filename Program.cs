@@ -1,6 +1,6 @@
 ﻿// Jasmine Leek
 // 18 Oct 2022
-// Mini-Challenge #1 "Say Hello"
+// Mini-Challenge #1 "Say Hello!"
 // This is a simple application that will ask the user for their name, then say hello to them.
 
 Console.Clear();
