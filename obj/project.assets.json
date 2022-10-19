@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/jasmineleek/.nuget/packages/": {}
+    "/Users/arelymartinez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh1/LeekJMiniCh1Git.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/LeekJMiniCh1/LeekJMiniCh1Git.csproj",
       "projectName": "LeekJMiniCh1Git",
-      "projectPath": "/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh1/LeekJMiniCh1Git.csproj",
-      "packagesPath": "/Users/jasmineleek/.nuget/packages/",
-      "outputPath": "/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh1/obj/",
+      "projectPath": "/Users/arelymartinez/Desktop/GitRepository/LeekJMiniCh1/LeekJMiniCh1Git.csproj",
+      "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+      "outputPath": "/Users/arelymartinez/Desktop/GitRepository/LeekJMiniCh1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jasmineleek/.nuget/NuGet/NuGet.Config"
+        "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
